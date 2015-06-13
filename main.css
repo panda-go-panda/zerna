@@ -31,6 +31,8 @@ nav {
     z-index: 2;
     left: 70%;
     top: -45px;
+    -moz-transform: rotate(7deg);
+    -webkit-transform: rotate(7deg);
     transform: rotate(7deg);
     color: white;
     text-align: center;
@@ -343,6 +345,8 @@ a:hover {
 
 .wave_top {
     top: 0;
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
 }
 
