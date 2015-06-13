@@ -1,0 +1,355 @@
+header {
+    background-color: #3B4E02;
+    color: white;
+    font-weight: normal;
+    padding: 10px 70px 30px;
+}
+body {
+    font-family: 'Lora', serif;
+}
+
+header h2 {
+    text-align: right;
+}
+
+header h4 {
+    font-size: 1.1em;
+    max-width: 50em;
+}
+
+nav {
+    font-size: 0.8em;
+    text-align: left;
+    margin-top: 2.1em;
+}
+
+.promo {
+    background: url(/images/promo.png);
+    width: 203px;
+    height: 203px;
+    position: absolute;
+    z-index: 2;
+    left: 70%;
+    top: -45px;
+    transform: rotate(7deg);
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
+
+.picture {
+    background: url(/images/apples.jpg) center bottom no-repeat;
+    height: 200px;
+    position: relative;
+    background-size: 100%;
+}
+
+.about {
+    background-color: #3B4E02;
+    color: white;
+    font-family: 'Lora', serif;
+    font-weight: normal;
+    padding: 30px 70px 30px;
+}
+
+.row h3 {
+    margin-top: 0px;
+}
+
+.landscape {
+    background: url(/images/landscape.jpg) center no-repeat;
+    height: 200px;
+    position: relative;
+    background-size: 100%;
+}
+
+.title {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    color: white;
+    text-align: center;
+    font-family: 'Lora', serif;
+    background: rgba(255, 255, 255, 0.35);
+    bottom: 0;
+    padding: 10px;
+}
+
+.title h2 {
+    margin: 10px 0;
+}
+
+.apples {
+    background-color: #4B4100;
+    color: white;
+    padding: 30px 70px 10px;
+    position: relative;
+}
+
+.period {
+    color: #BBB900;
+}
+
+.minimum {
+    color: #BBB900;
+}
+
+.weight {
+    font-size: 3em;
+    color: #BBB900;
+    line-height: 0.9em;
+    white-space: nowrap;
+}
+
+.sale {
+    color: #BBB900;
+    padding-top: 1em;
+}
+
+.items p {
+    line-height: 0.8em; 
+}
+
+.nuts {
+    background-color: #323200;
+    color: white;
+    padding: 30px 70px 30px;
+    position: relative;
+}
+
+.items h3 {
+    padding-bottom: 10px;
+}
+
+.delivery {
+    background: url(/images/nuts.jpg) center no-repeat;
+    height: 200px;
+    position: relative;
+    background-size: cover;
+}
+
+.bank {
+    background: url(/images/zerno.jpg) center bottom no-repeat;
+    height: 200px;
+    position: relative;
+    background-size: cover;
+}
+
+footer .about h2 {
+    text-align: right;
+}
+
+.phone {
+    letter-spacing: 2px;
+    font-weight: normal;
+    display: inline;
+}
+
+.first {
+    font-size: 1em;
+    line-height: 0.6em;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.mainletter {
+    font-size: 1.6em;
+    line-height: 0.4em;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.addmainletter {
+    font-size: 1.2em;
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: 0.5em;
+}
+
+.glyphicon-map-marker {
+    font-size: 3.3em;
+}
+
+.delivery-logo {
+    display: inline-block;
+}
+
+.delivery-logo i {
+    font-size: 3em;
+}
+
+.title-logo {
+    font-size: 1.3em;
+}
+
+.apl-1 {
+    background: url(/images/apl1.jpg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 3;
+}
+
+.apl-2 {
+    background: url(/images/apl2.jpg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 2;
+}
+
+.apl-3 {
+    background: url(/images/apl3.jpg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+
+.nuts-1 {
+    background: url(/images/nuts1.jpg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 3;
+}
+
+.gallery {
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    border: 5px solid white;
+    float: left;
+    margin-left: -75px;
+    line-height: 150px;
+}
+
+.nuts-2 {
+    background: url(/images/nuts2.jpg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 2;
+}
+
+.nuts-3 {
+    background: url(/images/nuts3.jpg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+
+.zern-1 {
+    background: url(/images/zern1.jpg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 3;
+}
+
+.zern-2 {
+    background: url(/images/zern2.jpg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 2;
+}
+
+.zern-3 {
+    background: url(/images/zern3.jpg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+
+.bean-1 {
+    background: url(/images/bean1.jpeg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 3;
+}
+
+.bean-2 {
+    background: url(/images/bean2.jpg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 2;
+}
+
+.bean-3 {
+    background: url(/images/bean3.jpg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+
+.symbol {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.phone-2 {
+    letter-spacing: 2px;
+    font-weight: normal;
+    display: inline-block;
+    color: #BBB900;
+}
+
+.phone-main {
+    text-align: right;
+}
+
+a, a:active, a:focus{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #BBB900;
+}
+
+.top {
+    text-align: right;
+    line-height: 35px;
+}
+
+.link {
+    position: absolute;
+    bottom: 10px;
+    z-index: 5;
+    left: 90px;
+    color: #BBB900;
+}
+
+.img-col {
+    white-space: nowrap;
+    position: relative;
+    padding-bottom: 40px;
+}
+
+.wave {
+    background-repeat: repeat-x;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 13px;
+    left: 0;
+}
+
+.wave_green {
+    background-image: url(images/wave-green.png);
+}
+
+.wave_dark_brown {
+    background-image: url(images/wave-dark-brown.png);
+}
+
+.wave_brown {
+    background-image: url(images/wave-brown.png);
+}
+
+.wave_top {
+    top: 0;
+    transform: rotate(180deg);
+}
+
+.wave_bottom {
+    bottom: 0;
+}
+
+.promo_text {
+    padding: 50px 50px 0 0;
+}
