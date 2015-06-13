@@ -24,7 +24,7 @@ nav {
 }
 
 .promo {
-    background: url(/images/promo.png);
+    background: url(images/promo.png);
     width: 203px;
     height: 203px;
     position: absolute;
@@ -40,7 +40,7 @@ nav {
 }
 
 .picture {
-    background: url(/images/apples.jpg) center bottom no-repeat;
+    background: url(images/apples.jpg) center bottom no-repeat;
     height: 200px;
     position: relative;
     background-size: 100%;
@@ -59,7 +59,7 @@ nav {
 }
 
 .landscape {
-    background: url(/images/landscape.jpg) center no-repeat;
+    background: url(images/landscape.jpg) center no-repeat;
     height: 200px;
     position: relative;
     background-size: 100%;
@@ -124,14 +124,14 @@ nav {
 }
 
 .delivery {
-    background: url(/images/nuts.jpg) center no-repeat;
+    background: url(images/nuts.jpg) center no-repeat;
     height: 200px;
     position: relative;
     background-size: cover;
 }
 
 .bank {
-    background: url(/images/zerno.jpg) center bottom no-repeat;
+    background: url(images/zerno.jpg) center bottom no-repeat;
     height: 200px;
     position: relative;
     background-size: cover;
@@ -182,28 +182,28 @@ footer .about h2 {
 }
 
 .apl-1 {
-    background: url(/images/apl1.jpg) center no-repeat;
+    background: url(images/apl1.jpg) center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 3;
 }
 
 .apl-2 {
-    background: url(/images/apl2.jpg) center no-repeat;
+    background: url(images/apl2.jpg) center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 2;
 }
 
 .apl-3 {
-    background: url(/images/apl3.jpg) center no-repeat;
+    background: url(images/apl3.jpg) center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
 }
 
 .nuts-1 {
-    background: url(/images/nuts1.jpg) center no-repeat;
+    background: url(images/nuts1.jpg) center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 3;
@@ -220,56 +220,56 @@ footer .about h2 {
 }
 
 .nuts-2 {
-    background: url(/images/nuts2.jpg) center no-repeat;
+    background: url(images/nuts2.jpg) center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 2;
 }
 
 .nuts-3 {
-    background: url(/images/nuts3.jpg) center no-repeat;
+    background: url(images/nuts3.jpg) center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
 }
 
 .zern-1 {
-    background: url(/images/zern1.jpg) center no-repeat;
+    background: url(images/zern1.jpg) center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 3;
 }
 
 .zern-2 {
-    background: url(/images/zern2.jpg) center no-repeat;
+    background: url(images/zern2.jpg) center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 2;
 }
 
 .zern-3 {
-    background: url(/images/zern3.jpg) center no-repeat;
+    background: url(images/zern3.jpg) center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
 }
 
 .bean-1 {
-    background: url(/images/bean1.jpeg) center no-repeat;
+    background: url(images/bean1.jpeg) center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 3;
 }
 
 .bean-2 {
-    background: url(/images/bean2.jpg) center no-repeat;
+    background: url(images/bean2.jpg) center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 2;
 }
 
 .bean-3 {
-    background: url(/images/bean3.jpg) center no-repeat;
+    background: url(images/bean3.jpg) center no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
